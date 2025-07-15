@@ -1,7 +1,7 @@
 # RETO 9 🤓
 
 ## Ejercicio 1
-- Realizar 3 funciones de retos anteriores en forma de lambdas.
+- Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
 ```python
 # lista de flotantes
 reales = [2.0, 3.5, 6.7, 10.1]
