@@ -76,7 +76,7 @@ print(arreglo)
         ```
 
     - ### Sorting
-       Los modulos o funciones que funcionan con otro algoritmo distinto a bubble-sort son .sort y sorted(), estos utilizando otro mucho mas eficiente "Timsort" (Tim + sort, por Tim Peters, quien lo diseñó para Python) ademas de que ahorra el tener que crear una funcion especifica para una lista.
+       el modulo.sort y la funcion sorted() operan con otro algoritmo distinto a bubble-sort, "Timsort" (Tim + sort, por Tim Peters, quien lo diseñó para Python) ahorra el tener que crear una funcion especifica para ordenar una lista y ademas es mucho mas eficiente.
        
         **Implementación .sort y sroted()**
         ```python
